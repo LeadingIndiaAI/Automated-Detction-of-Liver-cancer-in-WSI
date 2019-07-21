@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Automated Detction of Liver cancer in WSI
 
 You can use the [editor on GitHub](https://github.com/sushantag9/Automated-Detction-of-Liver-cancer-in-WSI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
