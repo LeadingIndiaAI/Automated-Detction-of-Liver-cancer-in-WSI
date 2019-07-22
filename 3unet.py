@@ -135,7 +135,7 @@ batch_size = 10
 train = pd.read_csv('/storage/research/Intern19_v2/AutomatedDetectionWSI/data/my_csv.csv')
 
 
-split = int(0.95 * len(train)) #95% for training
+split = int(0.90 * len(train)) #90% for training
 
 #split into training and testing
 train_files = train[0:split]
